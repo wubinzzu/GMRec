@@ -1,0 +1,8 @@
+2023-01-05 13:08:36.762: cellphones_tnnls_ratio_u10_i0_by_time
+2023-01-05 13:08:36.762: Dataset name: cellphones_tnnls
+The number of users: 9534
+The number of items: 53479
+The number of ratings: 139141
+Average actions of users: 14.59
+Average actions of items: 2.60
+The sparsity of the dataset: 99.972710%
