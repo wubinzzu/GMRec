@@ -1,7 +1,7 @@
 # GMRec
 This is a Tensorflow implementation for GMRec and a part of baselines:
 
->Bin Wu, Xun Su, Yangdong Ye*.
+>Bin Wu, Xun Su, Jing Liang, Zhongchuan Sun, Lihong Zhong & Yangdong Ye. Graph Gating-Mixer for Sequential Recommendation, Expert Systems With Applications.
 
 ## Environment Requirement
 The code has been tested running under Python 3.8.10. The required packages are as follows:
